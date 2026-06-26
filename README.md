@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D3DAQHpTo6SgKRm5g/image-scale_191_1128/B4DZyzojHgJoAk-/0/1772540294555/labra_laboratrio_de_robtica_avanada_cover?e=1773932400&v=beta&t=bLFTekQafH0VJ-JsHZXEomDPThNJhPUcUDZtN8NK68Q"  />
+  <img height="200" src="http://labra.ufsc.br/wp-content/uploads/2026/03/robos-3-1024x622.jpeg"  />
 </div>
 
 ###
